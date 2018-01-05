@@ -1,5 +1,5 @@
 # encrypt-nodejs
-nodejs服务端端加密 以及运行时进行加密
+nodejs服务端端加密 以及运行时进行解密
 
 通过更改require方法来做到服务器端nodejs代码加密的目的
 部署到服务端前 加密
