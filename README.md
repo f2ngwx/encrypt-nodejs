@@ -18,3 +18,9 @@ module.js 是node 0.10.x源码中lib下的module.js
 
 decrypt时候会读取/root/.node_key文件中的内容
 内容包含加密协议 和 password 中间以 [**] 分割 
+
+命令行方式：
+node app.js --AAES --PXXX --D/home/XXX
+--A 加密协议
+--P 加密密码
+--D 带需要加密的工程目录
